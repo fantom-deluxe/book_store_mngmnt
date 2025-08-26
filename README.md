@@ -28,18 +28,18 @@ This system allows bookstore owners to manage inventory, handle customer informa
 ## Screenshots
 
 ### Main Application Interface
-*Take a screenshot of the main GUI window showing all input fields, labels, and buttons*
+*Screenshot of the main GUI window showing all input fields, labels, and buttons*
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f9537a36-2ce4-482e-8e23-dd258cf93d92" />
 
 
 ### Search Results Output
-*Take a screenshot of the console showing search results with book details*
+*Screenshot of the console showing search results with book details*
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b63b0548-265a-46b6-9deb-125642d07b0c" />
 
 ### Bill Generation Output
-*Take a screenshot of the console showing complete bill with customer details and total amount*
+*Screenshot of the console showing complete bill with customer details and total amount*
 
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/ab53b39e-c169-45ac-a76f-a13d510aaffd" />
 
