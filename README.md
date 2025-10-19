@@ -1,4 +1,4 @@
-# Book Store Management System - OOP Version
+# Book Store Management System - OOP
 
 A **Book Store Management System** built using **Python**, **Object-Oriented Programming**, **MySQL Database**, and **Tkinter GUI**. This project demonstrates OOP concepts with clean code architecture and user-friendly interface.
 
