@@ -118,7 +118,7 @@ class BookStoreGUI:
     
     def setup_gui(self):
         self.window = Tk()
-        self.window.title("Books Store Management System - OOP Version")
+        self.window.title("Books Store Management System")
         self.window.configure(bg='white')
     
     def setup_variables(self):
@@ -303,3 +303,4 @@ if __name__ == "__main__":
     print("Book Store Management System Started!")
     print("="*50)
     app.run()
+
